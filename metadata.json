@@ -1,0 +1,8 @@
+{
+  "name": "Remix: VQA-Lab",
+  "description": "An interactive visual learning laboratory for Variational Quantum Algorithms, designed for quantum education and intuitive hands-on experimentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
